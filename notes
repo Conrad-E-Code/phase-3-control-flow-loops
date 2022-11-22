@@ -1,0 +1,8 @@
+Ruby blocks are important!
+
+10.times do |i|
+    puts "i is #{i}"
+end
+
+10.times {puts "i is #{i}"}
+
